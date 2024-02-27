@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62678170194",
+    "project_id": "sitesofinterest-13bd2",
+    "storage_bucket": "sitesofinterest-13bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62678170194:android:0e7a9f99ae1b0fb6793d8b",
+        "android_client_info": {
+          "package_name": "com.SitesOfInterest.ExploreLocations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1u_15Y4FnUEeRBU01tFkYkMcQgU20DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
